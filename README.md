@@ -90,11 +90,11 @@ BST height for n = 1000: **21** (random keys), **1000** (sorted keys).
 
 ### Screenshots
 
-Benchmark output:
+Correctness check:
 
 ![Benchmark output](screenshots/benchmark.png)
 
-Correctness check:
+Benchmark output:
 
 ![Check output](screenshots/check.png)
 
